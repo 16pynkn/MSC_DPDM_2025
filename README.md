@@ -9,8 +9,6 @@ Poonyanoot Khanom 685020030-7
 
 
 
-
-
 ## SCORE 
 
 ![📁 Research](https://img.shields.io/badge/📁_Research_Project-20%25-blue)
