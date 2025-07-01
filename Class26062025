@@ -5,6 +5,17 @@ AITools: NotebookLM
 - Data: Pattern/ Classification (supervisation)**  / Cluster
 - Program Code > Python
 - ย้อนหลังไม่เกิน 3 Years
-- หามาจำนวน 3 PAPERs
 **supervisation > semisuper > unsupervise
 
+
+
+Ji, Xiaoyi, et al. "Physical Color Calibration of Digital Pathology Scanners for Robust Artificial Intelligence–Assisted Cancer Diagnosis." Modern Pathology 38.5 (2025): 100715.
+[HTML] sciencedirect.com
+https://github.com/schaugf/HEnorm_python
+https://github.com/Peter554/StainTools
+
+
+
+Khan, Saif Ur Rehman. "Multi-level feature fusion network for kidney disease detection." Computers in Biology and Medicine 191 (2025): 110214.
+[HTML] sciencedirect.com
+https://github.com/VS-EYE/KidneyDiseaseDetection
