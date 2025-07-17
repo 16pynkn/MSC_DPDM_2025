@@ -24,3 +24,16 @@ Poonyanoot Khanom 685020030-7
 
 
 
+
+# Lesson Tracker
+
+
+| Date | Topic Studied | Colab Notebook |
+|:---|:---| :---|
+| 2025-07-15 |  String, Format string, Variable, List, List slicing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/16pynkn/MSC_DPDM_2025/blob/main/Lecture/Lab01.ipynb)  |
+| 2025-07-22 |  |  |
+| 2025-07-29 |  |  |
+|  |  |  |
+
+
+
