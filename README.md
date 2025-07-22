@@ -31,7 +31,7 @@ Poonyanoot Khanom 685020030-7
 | Date | Topic Studied | Colab Notebook |
 |:---|:---| :---|
 | 2025-07-15 |  String, Format string, Variable, List, List slicing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/16pynkn/MSC_DPDM_2025/blob/main/Lecture/Lab01.ipynb)  |
-| 2025-07-22 |  |  |
+| 2025-07-22 | Dictionary, For Loop, Loop in Loop, Condition (if, elif, else) |  |
 | 2025-07-29 |  |  |
 |  |  |  |
 
@@ -46,8 +46,8 @@ Poonyanoot Khanom 685020030-7
 | **Topic Exploration & Literature Review** |
 | 2025-06-26 | `[✅]` ค้นหา งานวิจัย 3 เรื่อง (ข้อมูลไม่เป็นตาราง) | Done |
 | 2025-06-26 | `[✅]` นำเสนอ งานวิจัย 3 เรื่อง | Done |
-| 2025-07-17| `[ ]` ศึกษา Paper 2 ฉบับที่อาจารย์แนะนำ | 2025-07-24 |
-| 2025-07-17 | `[ ]` ค้นหา Paper ที่เกี่ยวข้องเพิ่มเติม 1 ฉบับ | 2025-07-24 |
+| 2025-07-17| `[ ]` ศึกษา Paper 2 ฉบับที่อาจารย์แนะนำ + เพิ่มเติม 1 ฉบับ  | 2025-07-24 |
+| 2025-07-17 | `[✅]` ค้นหา Paper ที่เกี่ยวข้องเพิ่มเติม 1 ฉบับ | 2025-07-24 |
 | TBD | `[ ]` เลือก Paper หลักเพื่อทำโปรเจกต์ | TBD |
 |  |  |  |
 |  |  |  |
