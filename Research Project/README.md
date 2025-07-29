@@ -1,4 +1,4 @@
-# 📄  Selected Reseach
+# 📄  Research Project
 
 **Title:** Prediction of coronary artery disease based on facial temperature information captured by non-contact infrared thermography
 
@@ -21,16 +21,16 @@
 
 ### Research Project Tracker
 
-| Date | Topics | Due Date |
+| Week | Topics | Due Date |
 | :--- | :--- | :--- | 
 | **Topic Exploration & Literature Review** |
-| 2025-06-26 | ค้นหางานวิจัย 3 เรื่อง  | 2025-06-26 | 
-| 2025-06-26 | Literature Review (3) | 2025-06-26 | 
-| 2025-07-17 | Literature Review (2+1)  | 2025-07-24 |
+| Week 1 | ค้นหางานวิจัย 3 เรื่อง  | 2025-06-26 | 
+| Week 2 | Literature Review (3) | 2025-06-26 | 
+| Week 3 | Literature Review (2+1)  | 2025-07-24 |
 | - | Selected Topic | - |  Done |
 | **Initial Project Setup & Presentation** |
-| 2025-07-24 | Title, Abstract, Citation, Ranking | 2025-07-29 | 
-| 2025-07-29 | Results | 2025-08-05 | |
+| Week 4 | Title, Abstract, Citation, Ranking | 2025-07-29 | 
+| Week 5 | Results | 2025-08-05 | 
 
 
 ### Project Files
