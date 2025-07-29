@@ -21,16 +21,13 @@
 
 ### Research Project Tracker
 
-| Week | Topics | Due Date |
+| Week | Date | Topics |
 | :--- | :--- | :--- | 
-| **Topic Exploration & Literature Review** |
-| Week 1 | ค้นหางานวิจัย 3 เรื่อง  | 2025-06-26 | 
-| Week 2 | Literature Review (3) | 2025-06-26 | 
-| Week 3 | Literature Review (2+1)  | 2025-07-24 |
-| - | Selected Topic | - |  Done |
-| **Initial Project Setup & Presentation** |
-| Week 4 | Title, Abstract, Citation, Ranking | 2025-07-29 | 
-| Week 5 | Results | 2025-08-05 | 
+|  1 | 26-06-2025 | ค้นหางานวิจัย 3 เรื่อง  | 
+|  2 | 17-07-2025 | Literature Review (3) ที่ค้นหามา, อาจารย์ให้งานวิจัย 2 เรื่องไปศึกษาและหาเพิ่มเติม 1 เรื่อง | 
+|  3 | 24-07-2025 | Literature Review (2+1), Selected Topic |
+|  4 | 29-07-2025 | Title, Abstract, Citation, Ranking | 
+|  5 | 05-08-2025 | Results | 
 
 
 ### Project Files
