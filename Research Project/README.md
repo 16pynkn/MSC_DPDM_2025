@@ -30,7 +30,7 @@
 | - | Selected Topic | - |  Done |
 | **Initial Project Setup & Presentation** |
 | 2025-07-24 | Title, Abstract, Citation, Ranking | 2025-07-29 | 
-| 2025-07-29 | | | |
+| 2025-07-29 | Results | 2025-08-05 | |
 
 
 ### Project Files
