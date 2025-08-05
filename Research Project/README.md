@@ -35,4 +35,4 @@
 | File / Folder | Description |
 | :--- | :--- |
 | [`CAD_Title_Abstract.pdf`](./CAD_Title_Abstract.pdf)  | Abstract |
-| [`CAD_results.pdf`](./CAD_results.pdf)  | Results |
+| [`CAD_Results.pdf`](./CAD_Results.pdf)  | Results |
