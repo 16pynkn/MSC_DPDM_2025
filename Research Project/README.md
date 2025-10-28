@@ -36,4 +36,4 @@
 | :--- | :--- |
 | [`CAD_Title_Abstract.pdf`](./CAD_Title_Abstract.pdf)  | Abstract |
 | [`CAD_Results.pdf`](./CAD_Results.pdf)  | Results |
-| [`CAD_Presentation.pdf`](./CAD_Presentation.pdf.pdf)  | Full |
+| [`CAD_Presentation.pdf`](./CAD_Presentation.pdf)  | Full |
